@@ -1,5 +1,9 @@
 Course name: Programming For finance
 Instructor: Sir Usama
+Submitted by: M. Ahmed Islam (22i-2749)
+Khizar Qureshi (22i-2745)
+Hamnah Mukhtar (22i-9959)
+Eman Khan (22i-7450)
 
 # 📊 Interactive Financial ML Application
 
