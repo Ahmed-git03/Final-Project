@@ -160,7 +160,7 @@ if page == "Welcome":
     - 🔍 Logistic Regression
     - 🔗 K-Means Clustering
     """)
-    st.image(r"D:\Uni\Sem 6\Prog for fin\Project\money-8763.gif", use_container_width=True)
+    st.image(r"money-8763.gif", use_container_width=True)
 
 elif page == "Upload Dataset":
     st.header("📁 Upload a Financial Dataset")
