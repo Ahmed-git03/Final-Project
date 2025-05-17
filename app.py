@@ -126,8 +126,8 @@ st.sidebar.markdown("---")
 st.sidebar.markdown("### 📌 Quick Links")
 st.sidebar.markdown(
     """
-    - [💻 GitHub](https://github.com/yourrepo)
-    - [🔗 Linkedin](mailto:support@yourapp.com)
+    - [💻 GitHub](https://github.com/Ahmed-git03/Final-Project)
+    - [🔗 Linkedin](www.linkedin.com/in/ahmed-islam-625209318)
     """
 )
 
